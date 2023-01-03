@@ -2,7 +2,7 @@
 
 ## Table of contant
 
-- [Introduction to databases and SQL](https://github.com/Ammarabdelhalem/Full-sql-manual/SQL_MAN/0-IntroductiontodatabasesandSQL.md)
+- [Introduction to databases and SQL](SQL_MAN/0-IntroductiontodatabasesandSQL.md)
 
 - [Data Types and Data Definition](SQL_MAN/1-DataTypesandDataDefinition.md)
 
