@@ -4,7 +4,6 @@
 
 ## What is included?
 
-- [Introduction to databases and SQL](\SQL_MAN\0-IntroductiontodatabasesandSQL.md)
 
 - [Introduction to databases and SQL](SQL_MAN/0-IntroductiontodatabasesandSQL.md)
 
