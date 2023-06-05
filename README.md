@@ -21,7 +21,7 @@
 
 - [Stored procedures and triggers](SQL_MAN/7-Storedproceduresandtriggers.md)
 
-- [Advanced topics](SQL_MAN\8-Advancedtopics.md)
+- [Advanced topics](https://github.com/AmmarAbdelhalem/FSM/blob/main/SQL_MAN/8-Advancedtopics.md)
 
 *If you find this useful support me with star this repo*
 
