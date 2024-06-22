@@ -53,7 +53,7 @@ Write a SELECT statement to fetch only the `name` and `age` columns from the `st
 
 **Answer:**
 ```sql
-SELECT name, age FROM students;
+
 ```
 
 ### Quiz 3: Basic INSERT Query
@@ -62,7 +62,7 @@ Write an INSERT statement to add a new student named 'Alice' who is 20 years old
 
 **Answer:**
 ```sql
-INSERT INTO students (name, age) VALUES ('Alice', 20);
+
 ```
 
 ### Quiz 4: INSERT Multiple Values
@@ -71,7 +71,7 @@ Write an INSERT statement to add two students: 'Bob' who is 22 years old and 'Ch
 
 **Answer:**
 ```sql
-INSERT INTO students (name, age) VALUES ('Bob', 22), ('Charlie', 23);
+
 ```
 
 ### Quiz 5: Basic UPDATE Query
@@ -80,7 +80,7 @@ Write an UPDATE statement to change the age of the student named 'Alice' to 21.
 
 **Answer:**
 ```sql
-UPDATE students SET age = 21 WHERE name = 'Alice';
+
 ```
 
 ### Quiz 6: UPDATE Multiple Columns
@@ -89,7 +89,7 @@ Write an UPDATE statement to change the `age` of 'Bob' to 23 and set his `grade`
 
 **Answer:**
 ```sql
-UPDATE students SET age = 23, grade = 'A' WHERE name = 'Bob';
+
 ```
 
 ### Quiz 7: Basic DELETE Query
@@ -98,7 +98,7 @@ Write a DELETE statement to remove the student named 'Charlie' from the `student
 
 **Answer:**
 ```sql
-DELETE FROM students WHERE name = 'Charlie';
+
 ```
 
 ### Quiz 8: DELETE All Records
@@ -107,7 +107,7 @@ Write a DELETE statement to remove all students who are older than 22 from the `
 
 **Answer:**
 ```sql
-DELETE FROM students WHERE age > 22;
+
 ```
 
 ### Quiz 9: SELECT with WHERE Clause
@@ -116,7 +116,7 @@ Write a SELECT statement to fetch all columns from the `students` table where th
 
 **Answer:**
 ```sql
-SELECT * FROM students WHERE age > 20;
+
 ```
 
 ### Quiz 10: SELECT with ORDER BY
@@ -125,7 +125,7 @@ Write a SELECT statement to fetch all columns from the `students` table and orde
 
 **Answer:**
 ```sql
-SELECT * FROM students ORDER BY name ASC;
+
 ```
 
 ### Quiz 11: SELECT with Simple WHERE Conditions
@@ -134,6 +134,6 @@ Write a SELECT statement to fetch the `name` and `grade` of students from the `s
 
 **Answer:**
 ```sql
-SELECT name, grade FROM students WHERE grade = 'B';
+
 ```
 
