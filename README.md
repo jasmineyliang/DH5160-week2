@@ -128,6 +128,12 @@ Write a SELECT statement to fetch all columns from the `students` table and orde
 SELECT * FROM students ORDER BY name ASC;
 ```
 
-These quizzes are simplified to help beginners get comfortable with writing basic SQL commands.
+### Quiz 11: SELECT with Simple WHERE Conditions
+**Question:**
+Write a SELECT statement to fetch the `name` and `grade` of students from the `students` table where the grade is 'B'.
 
+**Answer:**
+```sql
+SELECT name, grade FROM students WHERE grade = 'B';
+```
 
